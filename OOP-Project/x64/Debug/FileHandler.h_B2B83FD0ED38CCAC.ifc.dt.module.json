@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "OOP-Project\\x64\\Debug\\FileHandler.obj",
+            "outputs": [
+                "OOP-Project\\x64\\Debug\\FileHandler.h_B2B83FD0ED38CCAC.ifc.dt.module.json",
+                "OOP-Project\\x64\\Debug\\FileHandler.h_B2B83FD0ED38CCAC.ifc.dt.d.json",
+                "OOP-Project\\x64\\Debug\\FileHandler.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\shaff\\source\\repos\\OOP-Project\\FileHandler.h",
+                    "source-path": "c:\\users\\shaff\\source\\repos\\oop-project\\filehandler.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
